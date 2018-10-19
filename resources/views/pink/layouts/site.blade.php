@@ -11,6 +11,7 @@
     <script src="{{asset(env('THEME'))}}/js/main.js"></script>
 </head>
 <body>
+<h1>Привет</h1>
     <div class="top-block">
         <div class="top-content flex">
             <h1>Out<span>Look</span></h1>
